@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>web.nai</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <div class="wrapper">
+            <div class="logo"><a href=''>EditingRoom</a></div>
+            <div class="menu">
+                <ul>
+                    <li><a href="#home">home</a></li>
+                    <li><a href="#courses">courses</a></li>
+                    <li><a href="#tutors">tutors</a></li>
+                    <li><a href="#partners">partners</a></li>
+                    <li><a href="#contact">contact</a></li>
+                    <li><a href=""class="tbl-biru">Sign up</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="wrapper">
+        <!--untuk home-->
+        <section id="home">
+            <img src="https://img.freepik.com/free-vector/computer-monitor-graphic-animator-creating-video-game-modeling-motion-processing-video-file-using-professional-editor-vector-illustration-graphic-design-art-designer-workplace-concept_74855-13038.jpg?size=626&ext=jpg&ga=GA1.1.2141537326.1697627870&semt=sph" alt="">
+           <div class="kolom">
+            <p class="deskripsi">StudyEditing #dirumahajhhh</p>
+            <h2>Ilmu Gratis,Banyak Maunya:b</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, recusandae.</p>
+            <p><a href=""class="tbl-pink">Pelajari Lebih lanjut</a></p>
+           </div>
+        </section>
+
+        <!--untuk about-->
+        <section id="courses">
+            <div class="kolom">
+                <p class="deskripsi">You will Nedd This</p>
+                <h2>Online Courses</h2>
+                <p>Do you want to start your graphic design/editing journey, or just want to improve your current skills?
+
+                    We took the recent launch of Editing Space with free course materials as an opportunity to put together a list of 16 of the best graphic design and editing courses for you!
+                    
+                    Nowadays, there are no obstacles to gaining knowledge in this interesting field from the best universities or specialists anywhere in the world because you can enroll in online classes.</p>
+                <p><a href=""class="tbl-biru">Pelajari Lebih Lanjut</a></p>
+            </div>
+             <img src="https://img.freepik.com/free-vector/female-student-listening-webinar-online_74855-6461.jpg?size=626&ext=jpg&ga=GA1.1.2141537326.1697627870&semt=sph" alt="">
+        </section>
+
+
+        <!--untuk tutors-->
+        <section id="tutors">
+            <div class="tengah">
+                <div class="kolom">
+                    <p class="deskripsi">Our Top Tutors</p>
+                    <h2>Tutors</h2>
+                    <p>Editors who are experts in your editing or design field work to perfect your design to produce a design that is better, perfectly formatted, and meets global publication standards.</p>
+                </div> 
+                
+                <div class="tutor-list">
+                    <div class="kartu-tutor">
+                        <img src="file:///C:/Users/user/Documents/mia%20naila/web%20nai/ghea3.jpg" alt="">
+                        <p>Ghea Natasya</p>
+                    </div>
+                    <div class="kartu-tutor">
+                        <img src="file:///C:/Users/user/Documents/mia%20naila/web%20nai/abilal3.jpg" alt="">
+                        <p>Bilal Alhafidz</p>
+                    </div>
+                    <div class="kartu-tutor">
+                        <img src="file:///C:/Users/user/Documents/mia%20naila/web%20nai/resti3.jpg" alt="">
+                        <p>Resti Setiani</p>
+                    </div>
+                    <div class="kartu-tutor">
+                        <img src="file:///C:/Users/user/Documents/mia%20naila/web%20nai/torik.jpg" alt="">
+                        <p>Thoriq Filasafi</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- untuk partners-->
+        <section id="partners--">
+            <div class="tengah">
+                <div class="kolom">
+                    <p class="deskripsi">Our Top Partners</p>
+                    <h2>Partners</h2>
+                    <p>Whether you want to enhance the impact of your manuscript or simply want an expert eye to rule out all potential causes of rejection on time, our expert editors cater to your specific needs and help you achieve your publication goals. </p>
+                </div>
+            
+            <div class="partner-list">
+                <div class="kartu-partner">
+                    <img src="https://img.freepik.com/premium-vector/success-logo-people-business-template_12582-124.jpg?w=360" alt="">
+                </div>
+                <div class="kartu-partner">
+                    <img src="https://img.freepik.com/premium-vector/success-logo-people-business-template_12582-124.jpg?w=360" alt="">
+                </div>
+                <div class="kartu-partner">
+                    <img src="https://img.freepik.com/premium-vector/success-logo-people-business-template_12582-124.jpg?w=360" alt="">
+                </div>
+                <div class="kartu-partner">
+                    <img src="https://img.freepik.com/premium-vector/success-logo-people-business-template_12582-124.jpg?w=360" alt="">
+                </div>
+                <div class="kartu-partner">
+                    <img src="https://img.freepik.com/premium-vector/success-logo-people-business-template_12582-124.jpg?w=360" alt="">
+                </div>
+            </div>
+            </div>
+        </section>
+    </div>
+
+    <div id="contact">
+        <div class="wrapper">
+            <div class="footer">
+                <div class="footer-section">
+                    <h3>EditingRoom</h3>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Error, tenetur.</p>
+                </div>
+                <div class="footer-section">
+                    <h3>About</h3>
+                    <p>There are no obstacles to gaining knowledge in this interesting field from the best universities or specialists anywhere in the world because you can enroll in online classes..</p>
+                </div>
+                <div class="footer-section">
+                    <h3>contact</h3>
+                    <p>Jl.Wijaya kusuma jakarta selatan No.15</p>
+                    <p>kode pos :41187</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Social</h3>
+                    <p><b>WhatsApp:</b> 0895391507832</p>
+                    <p><b>Youtube:</b> ollyxst</p>
+                    <p><b>Intagram:</b> @mnayyl_</p>
+                    <p><b></b></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="copyright">
+        <div class="wrapper">
+            &copy; 2023. <b>EditingRoom</b> All Rights Reserved.
+        </div>
+    </div>
+</body>
+</html>
